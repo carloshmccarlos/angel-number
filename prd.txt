@@ -1,0 +1,816 @@
+1. 产品信息
+Product Name
+
+Angel Number Calculator
+
+中文：
+
+天使数字计算器
+
+Product Type
+
+SEO-driven Interactive Web Application
+
+Category:
+
+Lifestyle Tool
+Numerology Experience
+Personal Reflection Platform
+Target Market
+Phase 1
+
+English Market:
+
+United States
+United Kingdom
+Canada
+Australia
+Phase 2
+
+Localization:
+
+Hindi
+Spanish
+Portuguese
+2. 产品定位
+2.1 Product Vision
+
+打造一个高互动、高SEO价值的数字命理探索工具。
+
+用户通过：
+
+Name
+Birthday
+Personal Focus
+
+生成：
+
+Personal Angel Number Profile
+
+并获得：
+
+Numerology interpretation
+Personal reflection insights
+Relationship insights
+Career reflection
+2.2 产品表达原则
+
+为了提高长期 SEO、广告投放和品牌可信度：
+
+禁止表达
+
+❌
+
+"The universe guarantees success"
+
+❌
+
+"Your angel predicts your future"
+
+❌
+
+"You will become rich"
+
+推荐表达
+
+✅
+
+"Symbolic interpretation"
+
+✅
+
+"Based on traditional numerology"
+
+✅
+
+"For personal reflection and self-exploration"
+
+3. 商业增长模型
+Growth Funnel
+Google Search
+
+        ↓
+
+SEO Landing Pages
+
+        ↓
+
+Free Angel Calculator
+
+        ↓
+
+Interactive Result Experience
+
+        ↓
+
+Email Unlock
+
+        ↓
+
+Personal Reading PDF
+
+        ↓
+
+Premium AI Report
+
+        ↓
+
+Revenue
+4. 用户核心需求
+
+用户真实问题：
+
+"I keep seeing angel numbers. What does my number mean?"
+
+用户希望：
+
+快速得到数字
+获得解释
+感觉结果属于自己
+分享给朋友
+5. User Persona
+Persona A
+Spiritual Explorer
+
+年龄：
+
+25-45
+
+行为：
+
+搜索：
+
+angel number calculator
+
+需求：
+
+快速探索。
+
+Persona B
+Numerology User
+
+搜索：
+
+angel number calculator by name
+
+需求：
+
+姓名+生日个性化。
+
+Persona C
+Meaning Search User
+
+搜索：
+
+444 angel number meaning
+
+需求：
+
+阅读解释并进入计算。
+
+6. 产品核心流程
+Landing Page
+
+      ↓
+
+Input Form
+
+      ↓
+
+Calculation Animation
+
+      ↓
+
+Result Page
+
+      ↓
+
+Email Unlock
+
+      ↓
+
+Premium Report
+7. Calculator Algorithm
+Algorithm Name
+
+Personal Angel Vibration Algorithm
+
+说明：
+
+基于：
+
+Pythagorean Numerology
+Angel Number Symbolism
+
+用于：
+
+personal reflection experience。
+
+8. Name Number Calculation
+Pythagorean Mapping
+Number	Letters
+1	A J S
+2	B K T
+3	C L U
+4	D M V
+5	E N W
+6	F O X
+7	G P Y
+8	H Q Z
+9	I R
+Input Normalization
+Case
+
+全部：
+
+Uppercase
+
+Remove
+
+删除：
+
+spaces
+hyphen
+symbols
+
+Example:
+
+Sarah-Jane Smith
+
+↓
+
+SARAHJANESMITH
+Accent Normalize
+
+例如：
+
+é → E
+ö → O
+Calculation
+
+Example:
+
+SARAH
+
+S=1
+A=1
+R=9
+A=1
+H=8
+
+
+Total=20
+
+
+2+0=2
+
+Result:
+
+Name Number = 2
+9. Life Path Number
+
+Input:
+
+Birthday
+
+格式：
+
+MM/DD/YYYY
+
+Calculation Rules
+
+分别计算：
+
+Month
+
+Day
+
+Year
+
+Example:
+
+05/20/1995
+
+Month:
+
+5
+
+Day:
+
+2
+
+Year:
+
+1+9+9+5=24
+
+2+4=6
+
+Final:
+
+5+2+6=13
+
+1+3=4
+
+Life Path:
+
+4
+Master Number Rules
+
+保留：
+
+11
+22
+33
+
+不继续拆分。
+
+10. Personal Vibration Calculation
+
+Formula:
+
+Name Number
+
++
+
+Life Path Number
+
+=
+
+Personal Vibration
+
+Example:
+
+2+4=6
+
+如果：
+
+结果：
+
+11
+
+22
+
+33
+
+保持。
+
+否则：
+
+reduce:
+
+1-9
+
+11. Angel Number Mapping
+Vibration	Angel Number	Theme
+1	111	New Beginnings
+2	222	Balance & Trust
+3	333	Growth & Guidance
+4	444	Stability & Strength
+5	555	Change & Transformation
+6	666	Balance & Reflection
+7	777	Spiritual Growth
+8	888	Abundance
+9	999	Completion
+11	1111	Manifestation
+22	2222	Creation
+33	3333	Healing
+12. Homepage UX
+
+URL:
+
+/
+Hero
+
+Title:
+
+Angel Number Calculator
+
+Discover Your Personal Angel Number
+Based on Your Name & Birthday
+
+Subtitle:
+
+Explore the symbolic meaning behind your number through numerology.
+
+CTA:
+
+Calculate My Angel Number
+Calculator Form
+Field 1
+
+Name
+
+Required
+
+Placeholder:
+
+Enter your full name
+Field 2
+
+Birthday
+
+三个 Dropdown:
+
+Month
+
+Day
+
+Year
+
+Year:
+
+1940-current
+
+Field 3
+
+Focus Area
+
+Options:
+
+✨ General Guide
+
+💖 Love & Relationships
+
+💼 Career & Path
+
+💰 Wealth & Prosperity
+
+🌱 Personal Growth
+
+说明：
+
+只影响内容排序。
+
+不影响算法。
+
+13. Loading Experience
+
+Duration:
+
+3 seconds
+
+目的：
+
+增加：
+
+Engagement
+Completion rate
+
+Visual:
+
+Dark cosmic background
+Number particles
+Smooth animation
+
+Text:
+
+0-1s
+
+Analyzing your name vibration...
+
+1-2s
+
+Connecting your birth path energy...
+
+2-3s
+
+Preparing your personal numerology insight...
+14. Result Page
+
+URL:
+
+/result
+
+SEO:
+
+NOINDEX
+Hero
+
+Example:
+
+Your Personal Angel Number
+
+
+444
+
+Description:
+
+444 symbolizes stability,
+inner strength and personal growth.
+Result Sections
+1. Why You Got This Number
+
+显示：
+
+Name Number
+
+Life Path Number
+
+Calculation process
+
+提高信任。
+
+2. Focus Reading
+
+根据用户选择排序。
+
+Example:
+
+Love:
+
+Your relationship reflection...
+
+Career:
+
+Your career energy...
+3. General Meaning
+
+包括：
+
+Symbolism
+Strength
+Reflection
+15. Email Lead System
+Content Lock
+
+位置：
+
+Result Page 50%
+
+标题：
+
+Unlock Your Complete Personal Reading
+
+内容：
+
+✓ Personality insights
+
+✓ Relationship reflection
+
+✓ Growth themes
+
+✓ Monthly reflection guide
+
+CTA:
+
+Receive My Free Reading
+16. Premium Product
+Product Name
+
+Personal Numerology Deep Report
+
+Price:
+
+$4.99
+
+Format:
+
+PDF
+
+内容：
+
+12 Pages:
+
+Cover
+Angel Number Profile
+Numerology Personality
+Life Path Meaning
+Relationship Reflection
+Career Reflection
+Strength Analysis
+Challenge Awareness
+Growth Direction
+Monthly Reflection
+Affirmations
+Personal Summary
+17. Technical Architecture
+Frontend
+Next.js
+
+React
+
+Tailwind CSS
+
+Framer Motion
+Backend
+Node.js / FastAPI
+Database
+PostgreSQL
+Services
+
+Email:
+
+Resend
+
+Payment:
+
+Stripe Checkout
+
+Analytics:
+
+GA4
+
+PostHog
+
+Search Console
+18. Database Design
+user_calculations
+CREATE TABLE user_calculations (
+
+id BIGSERIAL PRIMARY KEY,
+
+session_id VARCHAR(255),
+
+name VARCHAR(255),
+
+birthday DATE,
+
+focus_area VARCHAR(50),
+
+name_number INT,
+
+life_path_number INT,
+
+personal_vibration INT,
+
+angel_number VARCHAR(10),
+
+country_code VARCHAR(10),
+
+language VARCHAR(10),
+
+device_type VARCHAR(20),
+
+utm_source VARCHAR(100),
+
+utm_campaign VARCHAR(100),
+
+created_at TIMESTAMP DEFAULT NOW()
+
+);
+email_leads
+CREATE TABLE email_leads (
+
+id BIGSERIAL PRIMARY KEY,
+
+email VARCHAR(255) UNIQUE,
+
+calculation_id BIGINT,
+
+angel_number VARCHAR(10),
+
+source_page VARCHAR(255),
+
+marketing_permission BOOLEAN,
+
+created_at TIMESTAMP DEFAULT NOW()
+
+);
+orders
+CREATE TABLE orders (
+
+id BIGSERIAL PRIMARY KEY,
+
+stripe_session_id VARCHAR(255),
+
+email VARCHAR(255),
+
+amount DECIMAL(10,2),
+
+currency VARCHAR(10),
+
+payment_status VARCHAR(20),
+
+delivery_status VARCHAR(20),
+
+created_at TIMESTAMP DEFAULT NOW()
+
+);
+19. SEO Architecture
+Tier 1
+
+核心工具
+
+/angel-number-calculator
+Tier 2
+
+数字解释
+
+/angel-number/111
+
+/angel-number/222
+
+...
+
+/angel-number/999
+Tier 3
+
+问题搜索
+
+/what-does-444-mean
+
+/why-am-i-seeing-111
+
+Tier 4
+
+长尾工具页
+
+/angel-number-calculator-by-name
+
+/angel-number-calculator-by-birthday
+
+/free-angel-number-calculator
+20. Schema
+
+Homepage:
+
+SoftwareApplication
+
+Detail Pages:
+
+使用：
+
+Article Schema
+FAQ Schema
+21. Analytics Events
+Calculator
+calculator_view
+
+input_started
+
+calculate_clicked
+
+result_generated
+Growth
+email_view
+
+email_submit
+
+report_purchase_click
+
+purchase_complete
+22. Legal Disclaimer
+
+所有页面 Footer:
+
+This calculator is designed for entertainment,
+personal reflection, and self-exploration purposes.
+
+Results are based on traditional numerology practices
+and should not replace professional medical,
+financial, legal, or psychological advice.
+23. MVP Roadmap
+Phase 1 (4 weeks)
+
+必须上线：
+
+✅ Calculator
+
+✅ Algorithm
+
+✅ Result Page
+
+✅ SEO Pages
+
+✅ Analytics
+
+Phase 2
+
+增加：
+
+✅ Email
+
+✅ PDF
+
+Phase 3
+
+商业化：
+
+✅ Stripe
+
+✅ AI Report
+
+24. KPI
+SEO
+
+6个月：
+
+100,000 organic visitors/month
+Product
+
+Calculation Completion:
+
+>50%
+Lead
+
+Email Capture:
+
+>15%
+Revenue
+
+Premium Conversion:
+
+1%-3%
+Final Product Definition
+
+Angel Number Calculator 是一个基于传统数字命理体系的个性化探索工具，通过姓名与生日生成个人 Angel Number，并结合 SEO 内容、Email Lead 和 AI 报告实现商业增长。

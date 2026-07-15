@@ -1,0 +1,22 @@
+# Angel Number Calculator
+
+An interactive, SEO-driven online calculator to discover personal numerology and angel vibrations using the traditional Pythagorean name mapping and life path reduction algorithm.
+
+## Core Features
+
+- **Personal Vibration Calculator**: Uses full birth name and complete birth date (Month/Day/Year) to calculate the Name Number, Life Path Number, and reduced Personal Vibration.
+- **DeepSeek AI Readings**: Integrated with the SiliconFlow DeepSeek-V4-Flash model to generate custom personal readings based on inputs and focus area (Love, Career, Wealth, Growth).
+- **64 Angel Number Directory**: Fully indexed directories containing precise meanings for classic repeating patterns, mirrored numbers, and sequences.
+
+## Routes & Pages
+
+- Homepage: `/` (Interactive form, Educational numerology guides, FAQ accordions, Quick Directory index)
+- Result Page: `/result` (Bento layout breaking down Pythagorean calculator steps, AI interpretation card)
+- Directory Pages: `/angel-number/[number]` (Deep, structured meanings for 64 popular sequences)
+
+## Calculator Algorithm
+
+- **Name Number (Pythagorean)**: Maps characters A-Z to values 1-9. Adds them up and reduces to a single digit (1-9).
+- **Life Path Number**: Separately reduces Month, Day, and Year digits to single digits (or Master Numbers 11, 22, 33). Adds these three reduced values and reduces the total to a final Life Path Number (1-9, 11, 22, 33).
+- **Personal Vibration**: Sums the Name Number and Life Path Number, reducing to a final Personal Vibration (1-9, 11, 22, 33).
+- **Default Angel Number**: Matches the Personal Vibration to its repeating sequence (e.g., Vibration 1 maps to 111, 6 maps to 666, 11 maps to 1111).
